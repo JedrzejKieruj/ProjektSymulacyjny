@@ -1,0 +1,11 @@
+﻿  statistics_holder.cpp
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(42): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(56): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(67): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(72): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(80): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(104): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\jedrusinsky\desktop\projekt symulacja\cpu scheduler - final simulation\activityscanning\statistics_holder.cpp(126): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ActivityScanning.vcxproj -> C:\Users\Jedrusinsky\Desktop\PROJEKT SYMULACJA\CPU Scheduler - final simulation\Debug\ActivityScanning.exe
